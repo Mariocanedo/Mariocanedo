@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Mario Canedo
 #### Ingeniero informático/ Docente/ Relator/ Full Stack Java / Android / Kotlin / SQL
 
-![Portada](https://camo.githubusercontent.com/9b864a4db82b42c729eaa2abf2296376e3411be11b9ff2a85d5246e887cda62c/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3233362f332f706e672d7472616e73706172656e742d756e6976657273652d67616c6178792d6172742d68756d616e2d626f64792d73706163652d73706163652d707572706c652d61746d6f7370686572652d636f6d70757465722d77616c6c70617065722e706e67)
+![Portada](https://github.com/Mariocanedo/Mariocanedo/blob/main/GITHUB.png)
 
 ### Features
 - **Ingeniero informático** con experiencia en desarrollo Full Stack.
