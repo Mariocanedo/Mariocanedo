@@ -19,11 +19,19 @@ Me gusta sentirme parte de la solución y aportar valor en el camino a recorrer,
 ![MVP](https://img.shields.io/badge/MVP-FFD700?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mariocanedo)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mario-c-468584228/)  
+**Conéctate conmigo:**
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Mariocanedo)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/mario-c-468584228/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'>](https://discord.com/users/Mario.Canedo)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mariocanedo)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariocanedo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariocanedo&show_icons=true)
+
+---
+
+Para más información, visita [ChatGPT Online](https://chatgptonline.tech/es/).  
+[¡Dibujos Para Colorear!](https://www.google.com.mx/search?q=colorearw.com)
