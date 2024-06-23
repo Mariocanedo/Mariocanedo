@@ -1,4 +1,5 @@
 
+
 ### Hola 👋, Soy Mario Canedo
 #### Ingeniero informático/ Docente/ Relator/ Full Stack Java / Android / Kotlin / SQL
 
@@ -21,9 +22,9 @@ Me gusta sentirme parte de la solución y aportar valor en el camino a recorrer,
 
 **Conéctate conmigo:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Mariocanedo)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/mario-c-468584228/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'>](https://discord.com/users/Mario.Canedo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mariocanedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-c-468584228/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mario.Canedo)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mariocanedo)](https://github.com/ryo-ma/github-profile-trophy)
 
